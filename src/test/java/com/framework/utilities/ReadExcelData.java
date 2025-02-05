@@ -1,4 +1,4 @@
-package com.framewok.utilities;
+package com.framework.utilities;
 
 public class ReadExcelData {
 

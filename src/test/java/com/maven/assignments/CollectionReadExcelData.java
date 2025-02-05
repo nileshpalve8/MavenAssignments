@@ -3,7 +3,7 @@ package com.maven.assignments;
 import java.util.List;
 import java.util.Map;
 
-import com.framewok.utilities.ExcelUtil;
+import com.framework.utilities.ExcelUtil;
 
 public class CollectionReadExcelData {
 
